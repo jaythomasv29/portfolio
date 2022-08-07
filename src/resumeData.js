@@ -15,7 +15,7 @@ const data = {
       "zip": "94040"
     },
     "website": "",
-    "resumedownload": "https://www.dropbox.com/s/c2nvk0jljz05ywk/James_Vongampai_Resume.pdf?dl=0",
+    "resumedownload": "https://docs.google.com/document/d/1osYELS-cr1aKN0SuGDfdBWuH6mO6pe9coiaXIdpQgwk/edit?usp=sharing",
     "social": [
       {
         "name": "linkedin",

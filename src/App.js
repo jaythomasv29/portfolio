@@ -16,7 +16,6 @@ const App = () => {
   useEffect(() => {
     setResumeData(data)
   }, [])
-console.log('da', resumeData)
  
 
   return (
